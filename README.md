@@ -13,7 +13,3 @@ Chicago.
 New York City.
 Washington.
 And bikeshare_2.py file which include the script for the program.
-
-
-
-![alt text](https://github.com/HeshamK75/US-bikeshare/blob/main/how_to_use.gif)
